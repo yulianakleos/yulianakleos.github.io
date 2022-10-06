@@ -1,0 +1,15 @@
+h2 {
+    font-size:24px;
+    color:orangered;
+    font-weight: bold;
+    text-align: center;
+}
+
+p {
+    color:grey;
+    font-size: 18px;
+    margin:initial;
+}
+li{
+    color: orange;
+}
